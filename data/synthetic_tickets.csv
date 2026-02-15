@@ -1,0 +1,301 @@
+id,title,body,category,priority
+TCK-0001,Richiesta preventivo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0002,Richiesta IBAN,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0003,Dettagli offerta,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0004,Problema con fattura,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla? ASAP!",Amministrazione,Alta
+TCK-0005,Richiesta preventivo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? ASAP!,Commerciale,Alta
+TCK-0006,Server non raggiungibile,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Media
+TCK-0007,Richiesta IBAN,Ho notato un'incongruenza nella nota di credito emessa ieri. Quando avete tempo.,Amministrazione,Bassa
+TCK-0008,Scadenza pagamento,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla? È urgente.",Amministrazione,Alta
+TCK-0009,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Solo per informazione.,Tecnico,Alta
+TCK-0010,Nuovo ordine,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Risolvete subito.,Commerciale,Alta
+TCK-0011,Bonifico non ricevuto,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0012,Sconto per rinnovo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? È urgente.,Commerciale,Alta
+TCK-0013,Richiesta IBAN,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0014,Problema con fattura,Ho notato un'incongruenza nella nota di credito emessa ieri. Nessuna fretta.,Amministrazione,Bassa
+TCK-0015,Scadenza pagamento,"Il pagamento risulta rifiutato dal sistema, come posso procedere? Produzione ferma.",Amministrazione,Alta
+TCK-0016,Richiesta preventivo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono?,Commerciale,Bassa
+TCK-0017,Informazioni su licenze,Vorrei capire come funziona il passaggio al piano superiore di licenze software. Nessuna fretta.,Commerciale,Bassa
+TCK-0018,Dettagli offerta,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0019,Richiesta IBAN,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0020,Reset password,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. ASAP!,Tecnico,Alta
+TCK-0021,Sconto per rinnovo,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0022,Software lento,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Quando avete tempo.",Tecnico,Bassa
+TCK-0023,Dettagli offerta,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Solo per avere un'idea.,Commerciale,Bassa
+TCK-0024,Nuovo ordine,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto? Situazione bloccante.",Commerciale,Alta
+TCK-0025,Nuovo ordine,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0026,Richiesta IBAN,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0027,Crash applicazione,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. Solo per avere un'idea.,Tecnico,Alta
+TCK-0028,Sconto per rinnovo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono?,Commerciale,Media
+TCK-0029,Problema con fattura,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale.,Amministrazione,Media
+TCK-0030,Sconto per rinnovo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali. Quando avete tempo.,Commerciale,Bassa
+TCK-0031,Errore di sistema,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Media
+TCK-0032,Bonifico non ricevuto,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0033,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Produzione ferma.,Tecnico,Alta
+TCK-0034,Bonifico non ricevuto,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale.,Amministrazione,Media
+TCK-0035,Sconto per rinnovo,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Produzione ferma.,Commerciale,Alta
+TCK-0036,Server non raggiungibile,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. ASAP!,Tecnico,Alta
+TCK-0037,Problema con fattura,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0038,Informazioni su licenze,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0039,Informazioni su licenze,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Media
+TCK-0040,Nuovo ordine,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0041,Informazioni su licenze,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto? Nessuna fretta.",Commerciale,Bassa
+TCK-0042,Crash applicazione,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. Situazione bloccante.",Tecnico,Alta
+TCK-0043,Scadenza pagamento,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0044,Bonifico non ricevuto,Necessito del vostro IBAN per effettuare il saldo in scadenza. È urgente.,Amministrazione,Alta
+TCK-0045,Problema con fattura,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0046,Bonifico non ricevuto,Necessito del vostro IBAN per effettuare il saldo in scadenza. Solo per avere un'idea.,Amministrazione,Bassa
+TCK-0047,Bonifico non ricevuto,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0048,Dettagli offerta,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Risolvete subito.,Commerciale,Alta
+TCK-0049,Server non raggiungibile,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. Risolvete subito.,Tecnico,Alta
+TCK-0050,Software lento,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. Solo per informazione.",Tecnico,Bassa
+TCK-0051,Richiesta preventivo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali. Nessuna fretta.,Commerciale,Bassa
+TCK-0052,Richiesta IBAN,Necessito del vostro IBAN per effettuare il saldo in scadenza. Risolvete subito.,Amministrazione,Alta
+TCK-0053,Errore in nota di credito,Necessito del vostro IBAN per effettuare il saldo in scadenza. Quando avete tempo.,Amministrazione,Bassa
+TCK-0054,Errore in nota di credito,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. ASAP!,Amministrazione,Alta
+TCK-0055,Problema con fattura,Necessito del vostro IBAN per effettuare il saldo in scadenza. Risolvete subito.,Amministrazione,Alta
+TCK-0056,Server non raggiungibile,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Media
+TCK-0057,Errore in nota di credito,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0058,Software lento,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Solo per avere un'idea.",Tecnico,Bassa
+TCK-0059,Richiesta IBAN,"Il pagamento risulta rifiutato dal sistema, come posso procedere? È urgente.",Amministrazione,Alta
+TCK-0060,Dettagli offerta,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0061,Problema con fattura,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. Quando avete tempo.,Amministrazione,Bassa
+TCK-0062,Bonifico non ricevuto,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0063,Bonifico non ricevuto,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0064,Errore in nota di credito,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0065,Informazioni su licenze,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono?,Commerciale,Media
+TCK-0066,Richiesta preventivo,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo.,Commerciale,Bassa
+TCK-0067,Dettagli offerta,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Media
+TCK-0068,Scadenza pagamento,Necessito del vostro IBAN per effettuare il saldo in scadenza. Quando avete tempo.,Amministrazione,Bassa
+TCK-0069,Sconto per rinnovo,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Solo per informazione.,Commerciale,Bassa
+TCK-0070,Errore in nota di credito,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale.,Amministrazione,Media
+TCK-0071,Problema con fattura,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. Produzione ferma.,Amministrazione,Alta
+TCK-0072,Scadenza pagamento,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0073,Reset password,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Nessuna fretta.",Tecnico,Bassa
+TCK-0074,Dettagli offerta,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0075,Sconto per rinnovo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0076,Scadenza pagamento,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0077,Dettagli offerta,Vorrei capire come funziona il passaggio al piano superiore di licenze software. Quando avete tempo.,Commerciale,Bassa
+TCK-0078,Sconto per rinnovo,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0079,Crash applicazione,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. Solo per informazione.",Tecnico,Alta
+TCK-0080,Errore in nota di credito,"Il pagamento risulta rifiutato dal sistema, come posso procedere? Produzione ferma.",Amministrazione,Alta
+TCK-0081,Scadenza pagamento,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0082,Nuovo ordine,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? È urgente.,Commerciale,Alta
+TCK-0083,Informazioni su licenze,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Produzione ferma.,Commerciale,Alta
+TCK-0084,Dettagli offerta,Vorrei capire come funziona il passaggio al piano superiore di licenze software. Solo per informazione.,Commerciale,Bassa
+TCK-0085,Reset password,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0086,Richiesta IBAN,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla? Solo per avere un'idea.",Amministrazione,Bassa
+TCK-0087,Informazioni su licenze,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0088,Errore in nota di credito,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla? Produzione ferma.",Amministrazione,Alta
+TCK-0089,Server non raggiungibile,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. È urgente.",Tecnico,Alta
+TCK-0090,Errore di sistema,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. Risolvete subito.",Tecnico,Alta
+TCK-0091,Reset password,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Situazione bloccante.",Tecnico,Alta
+TCK-0092,Reset password,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Media
+TCK-0093,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Nessuna fretta.,Tecnico,Alta
+TCK-0094,Problema con fattura,"Il pagamento risulta rifiutato dal sistema, come posso procedere? Produzione ferma.",Amministrazione,Alta
+TCK-0095,Problema con fattura,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. Nessuna fretta.,Amministrazione,Bassa
+TCK-0096,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. ASAP!,Tecnico,Alta
+TCK-0097,Scadenza pagamento,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0098,Bonifico non ricevuto,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale.,Amministrazione,Media
+TCK-0099,Informazioni su licenze,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto? Nessuna fretta.",Commerciale,Bassa
+TCK-0100,Sconto per rinnovo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0101,Crash applicazione,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Alta
+TCK-0102,Software lento,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Media
+TCK-0103,Errore in nota di credito,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0104,Bonifico non ricevuto,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. Solo per informazione.,Amministrazione,Bassa
+TCK-0105,Reset password,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Nessuna fretta.",Tecnico,Bassa
+TCK-0106,Software lento,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Media
+TCK-0107,Nuovo ordine,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0108,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Quando avete tempo.,Tecnico,Alta
+TCK-0109,Sconto per rinnovo,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0110,Problema con fattura,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla? Risolvete subito.",Amministrazione,Alta
+TCK-0111,Richiesta preventivo,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Quando avete tempo.,Commerciale,Bassa
+TCK-0112,Nuovo ordine,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Quando avete tempo.,Commerciale,Bassa
+TCK-0113,Richiesta preventivo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0114,Richiesta IBAN,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. Quando avete tempo.,Amministrazione,Bassa
+TCK-0115,Errore in nota di credito,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0116,Dettagli offerta,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono?,Commerciale,Media
+TCK-0117,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Solo per avere un'idea.,Tecnico,Alta
+TCK-0118,Errore in nota di credito,Ho notato un'incongruenza nella nota di credito emessa ieri. Quando avete tempo.,Amministrazione,Bassa
+TCK-0119,Sconto per rinnovo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Quando avete tempo.,Commerciale,Bassa
+TCK-0120,Software lento,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0121,Scadenza pagamento,"Il pagamento risulta rifiutato dal sistema, come posso procedere? Solo per informazione.",Amministrazione,Bassa
+TCK-0122,Richiesta IBAN,Necessito del vostro IBAN per effettuare il saldo in scadenza. Quando avete tempo.,Amministrazione,Bassa
+TCK-0123,Informazioni su licenze,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali. Nessuna fretta.,Commerciale,Bassa
+TCK-0124,Nuovo ordine,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Risolvete subito.,Commerciale,Alta
+TCK-0125,Crash applicazione,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0126,Nuovo ordine,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Produzione ferma.,Commerciale,Alta
+TCK-0127,Software lento,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Media
+TCK-0128,Dettagli offerta,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono?,Commerciale,Media
+TCK-0129,Server non raggiungibile,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Solo per informazione.",Tecnico,Bassa
+TCK-0130,Reset password,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Media
+TCK-0131,Server non raggiungibile,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0132,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0133,Errore in nota di credito,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0134,Problema con fattura,"Il pagamento risulta rifiutato dal sistema, come posso procedere? Quando avete tempo.",Amministrazione,Bassa
+TCK-0135,Reset password,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Media
+TCK-0136,Reset password,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. Solo per informazione.",Tecnico,Bassa
+TCK-0137,Errore di sistema,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Produzione ferma.,Tecnico,Alta
+TCK-0138,Problema con fattura,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0139,Richiesta IBAN,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0140,Richiesta IBAN,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0141,Informazioni su licenze,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo.,Commerciale,Media
+TCK-0142,Server non raggiungibile,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0143,Richiesta preventivo,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Bassa
+TCK-0144,Bonifico non ricevuto,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0145,Nuovo ordine,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo.,Commerciale,Media
+TCK-0146,Problema con fattura,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale.,Amministrazione,Media
+TCK-0147,Informazioni su licenze,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0148,Crash applicazione,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0149,Richiesta preventivo,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Bassa
+TCK-0150,Sconto per rinnovo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0151,Errore di sistema,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Media
+TCK-0152,Errore in nota di credito,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0153,Server non raggiungibile,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. ASAP!",Tecnico,Alta
+TCK-0154,Sconto per rinnovo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono?,Commerciale,Media
+TCK-0155,Nuovo ordine,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Nessuna fretta.,Commerciale,Bassa
+TCK-0156,Server non raggiungibile,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. Solo per avere un'idea.,Tecnico,Alta
+TCK-0157,Errore in nota di credito,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale.,Amministrazione,Media
+TCK-0158,Reset password,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. Nessuna fretta.,Tecnico,Alta
+TCK-0159,Errore in nota di credito,Necessito del vostro IBAN per effettuare il saldo in scadenza. Nessuna fretta.,Amministrazione,Bassa
+TCK-0160,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0161,Crash applicazione,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0162,Problema con fattura,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0163,Crash applicazione,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi.",Tecnico,Alta
+TCK-0164,Nuovo ordine,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo.,Commerciale,Media
+TCK-0165,Scadenza pagamento,Necessito del vostro IBAN per effettuare il saldo in scadenza. Quando avete tempo.,Amministrazione,Bassa
+TCK-0166,Crash applicazione,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Nessuna fretta.",Tecnico,Alta
+TCK-0167,Crash applicazione,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Solo per avere un'idea.",Tecnico,Alta
+TCK-0168,Reset password,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Situazione bloccante.",Tecnico,Alta
+TCK-0169,Errore di sistema,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0170,Informazioni su licenze,Vorrei capire come funziona il passaggio al piano superiore di licenze software. Risolvete subito.,Commerciale,Alta
+TCK-0171,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0172,Richiesta IBAN,"Il pagamento risulta rifiutato dal sistema, come posso procedere? Situazione bloccante.",Amministrazione,Alta
+TCK-0173,Errore di sistema,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. È urgente.,Tecnico,Alta
+TCK-0174,Bonifico non ricevuto,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0175,Errore in nota di credito,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0176,Sconto per rinnovo,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Nessuna fretta.,Commerciale,Bassa
+TCK-0177,Problema con fattura,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0178,Errore di sistema,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. Solo per informazione.,Tecnico,Alta
+TCK-0179,Richiesta preventivo,Vorrei capire come funziona il passaggio al piano superiore di licenze software. ASAP!,Commerciale,Alta
+TCK-0180,Errore di sistema,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Risolvete subito.",Tecnico,Alta
+TCK-0181,Dettagli offerta,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? ASAP!,Commerciale,Alta
+TCK-0182,Software lento,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. Solo per avere un'idea.",Tecnico,Bassa
+TCK-0183,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. È urgente.,Tecnico,Alta
+TCK-0184,Richiesta IBAN,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0185,Richiesta IBAN,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0186,Problema con fattura,Ho notato un'incongruenza nella nota di credito emessa ieri. Solo per avere un'idea.,Amministrazione,Bassa
+TCK-0187,Errore di sistema,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Nessuna fretta.",Tecnico,Bassa
+TCK-0188,Nuovo ordine,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0189,Crash applicazione,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Quando avete tempo.",Tecnico,Alta
+TCK-0190,Informazioni su licenze,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Media
+TCK-0191,Problema con fattura,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0192,Dettagli offerta,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto? Solo per avere un'idea.",Commerciale,Bassa
+TCK-0193,Sconto per rinnovo,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo.,Commerciale,Media
+TCK-0194,Dettagli offerta,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo. Solo per informazione.,Commerciale,Bassa
+TCK-0195,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Solo per informazione.,Tecnico,Alta
+TCK-0196,Bonifico non ricevuto,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale.,Amministrazione,Media
+TCK-0197,Sconto per rinnovo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Situazione bloccante.,Commerciale,Alta
+TCK-0198,Crash applicazione,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Alta
+TCK-0199,Bonifico non ricevuto,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0200,Errore di sistema,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. Nessuna fretta.",Tecnico,Bassa
+TCK-0201,Errore di sistema,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Solo per avere un'idea.",Tecnico,Bassa
+TCK-0202,Software lento,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. È urgente.,Tecnico,Alta
+TCK-0203,Reset password,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Risolvete subito.",Tecnico,Alta
+TCK-0204,Richiesta preventivo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Solo per informazione.,Commerciale,Bassa
+TCK-0205,Bonifico non ricevuto,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0206,Software lento,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. ASAP!,Tecnico,Alta
+TCK-0207,Scadenza pagamento,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0208,Errore di sistema,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0209,Informazioni su licenze,Vorrei capire come funziona il passaggio al piano superiore di licenze software. Solo per informazione.,Commerciale,Bassa
+TCK-0210,Nuovo ordine,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali. È urgente.,Commerciale,Alta
+TCK-0211,Errore di sistema,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Nessuna fretta.",Tecnico,Bassa
+TCK-0212,Sconto per rinnovo,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo.,Commerciale,Media
+TCK-0213,Server non raggiungibile,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Media
+TCK-0214,Server non raggiungibile,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0215,Problema con fattura,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0216,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Solo per informazione.,Tecnico,Alta
+TCK-0217,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0218,Nuovo ordine,Vorrei capire come funziona il passaggio al piano superiore di licenze software. Solo per avere un'idea.,Commerciale,Bassa
+TCK-0219,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0220,Software lento,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Media
+TCK-0221,Informazioni su licenze,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Solo per avere un'idea.,Commerciale,Bassa
+TCK-0222,Scadenza pagamento,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0223,Software lento,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Solo per informazione.",Tecnico,Bassa
+TCK-0224,Bonifico non ricevuto,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. Solo per informazione.,Amministrazione,Bassa
+TCK-0225,Errore di sistema,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0226,Richiesta IBAN,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0227,Problema con fattura,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0228,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0229,Richiesta preventivo,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Bassa
+TCK-0230,Nuovo ordine,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Media
+TCK-0231,Crash applicazione,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0232,Scadenza pagamento,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0233,Errore di sistema,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. Nessuna fretta.,Tecnico,Alta
+TCK-0234,Problema con fattura,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0235,Reset password,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Quando avete tempo.",Tecnico,Bassa
+TCK-0236,Nuovo ordine,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono?,Commerciale,Media
+TCK-0237,Richiesta IBAN,Necessito del vostro IBAN per effettuare il saldo in scadenza. Risolvete subito.,Amministrazione,Alta
+TCK-0238,Informazioni su licenze,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo.,Commerciale,Media
+TCK-0239,Richiesta IBAN,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0240,Reset password,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0241,Reset password,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Risolvete subito.,Tecnico,Alta
+TCK-0242,Crash applicazione,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Alta
+TCK-0243,Reset password,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Media
+TCK-0244,Errore in nota di credito,Ho notato un'incongruenza nella nota di credito emessa ieri. Risolvete subito.,Amministrazione,Alta
+TCK-0245,Sconto per rinnovo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Nessuna fretta.,Commerciale,Bassa
+TCK-0246,Errore in nota di credito,"Il pagamento risulta rifiutato dal sistema, come posso procedere? È urgente.",Amministrazione,Alta
+TCK-0247,Nuovo ordine,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Media
+TCK-0248,Bonifico non ricevuto,"Il pagamento risulta rifiutato dal sistema, come posso procedere? Situazione bloccante.",Amministrazione,Alta
+TCK-0249,Sconto per rinnovo,Vorrei capire come funziona il passaggio al piano superiore di licenze software.,Commerciale,Media
+TCK-0250,Richiesta preventivo,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Bassa
+TCK-0251,Bonifico non ricevuto,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0252,Scadenza pagamento,"Il pagamento risulta rifiutato dal sistema, come posso procedere?",Amministrazione,Media
+TCK-0253,Richiesta IBAN,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0254,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0255,Scadenza pagamento,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0256,Reset password,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. Solo per informazione.,Tecnico,Alta
+TCK-0257,Richiesta IBAN,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0258,Sconto per rinnovo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali.,Commerciale,Bassa
+TCK-0259,Scadenza pagamento,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. Produzione ferma.,Amministrazione,Alta
+TCK-0260,Sconto per rinnovo,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono? Nessuna fretta.,Commerciale,Bassa
+TCK-0261,Richiesta IBAN,Ho notato un'incongruenza nella nota di credito emessa ieri. ASAP!,Amministrazione,Alta
+TCK-0262,Crash applicazione,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi.",Tecnico,Alta
+TCK-0263,Nuovo ordine,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Media
+TCK-0264,Richiesta IBAN,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0265,Software lento,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti. ASAP!,Tecnico,Alta
+TCK-0266,Errore in nota di credito,Ho notato un'incongruenza nella nota di credito emessa ieri. Solo per avere un'idea.,Amministrazione,Bassa
+TCK-0267,Informazioni su licenze,Vorrei procedere con un nuovo ordine per il prodotto che ho visto a catalogo.,Commerciale,Media
+TCK-0268,Crash applicazione,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare.",Tecnico,Alta
+TCK-0269,Errore di sistema,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Risolvete subito.",Tecnico,Alta
+TCK-0270,Scadenza pagamento,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0271,Crash applicazione,"Ho dimenticato la password e il link di reset non funziona, mi dà errore. Produzione ferma.",Tecnico,Alta
+TCK-0272,Problema con fattura,Ho notato un'incongruenza nella nota di credito emessa ieri. Situazione bloccante.,Amministrazione,Alta
+TCK-0273,Dettagli offerta,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali. Produzione ferma.,Commerciale,Alta
+TCK-0274,Richiesta IBAN,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. ASAP!,Amministrazione,Alta
+TCK-0275,Bonifico non ricevuto,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0276,Scadenza pagamento,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
+TCK-0277,Richiesta preventivo,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Bassa
+TCK-0278,Richiesta IBAN,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. Quando avete tempo.,Amministrazione,Bassa
+TCK-0279,Problema con fattura,Necessito del vostro IBAN per effettuare il saldo in scadenza. Situazione bloccante.,Amministrazione,Alta
+TCK-0280,Sconto per rinnovo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali. È urgente.,Commerciale,Alta
+TCK-0281,Errore in nota di credito,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. È urgente.,Amministrazione,Alta
+TCK-0282,Software lento,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Media
+TCK-0283,Errore in nota di credito,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale. ASAP!,Amministrazione,Alta
+TCK-0284,Bonifico non ricevuto,"Il pagamento risulta rifiutato dal sistema, come posso procedere? Solo per informazione.",Amministrazione,Bassa
+TCK-0285,Errore in nota di credito,Ho notato un'incongruenza nella nota di credito emessa ieri. Solo per informazione.,Amministrazione,Bassa
+TCK-0286,Software lento,Continuo a ricevere un errore 500 quando provo a salvare il form dei clienti.,Tecnico,Alta
+TCK-0287,Crash applicazione,"Il server principale non risponde, non riusciamo ad accedere ai file condivisi. Produzione ferma.",Tecnico,Alta
+TCK-0288,Dettagli offerta,Potete inviarmi i dettagli dell'offerta speciale di cui mi avete parlato al telefono?,Commerciale,Media
+TCK-0289,Crash applicazione,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. Solo per avere un'idea.,Tecnico,Alta
+TCK-0290,Problema con fattura,Abbiamo effettuato il bonifico ma non vedo lo sblocco amministrativo nel portale.,Amministrazione,Media
+TCK-0291,Errore in nota di credito,Ho notato un'incongruenza nella nota di credito emessa ieri.,Amministrazione,Media
+TCK-0292,Reset password,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. Solo per informazione.",Tecnico,Bassa
+TCK-0293,Software lento,"Ho dimenticato la password e il link di reset non funziona, mi dà errore.",Tecnico,Media
+TCK-0294,Server non raggiungibile,"Il gestionale è incredibilmente lento da questa mattina, è impossibile lavorare. È urgente.",Tecnico,Alta
+TCK-0295,Errore in nota di credito,"Buongiorno, non trovo la vostra fattura del mese scorso. Potete rimandarla?",Amministrazione,Media
+TCK-0296,Server non raggiungibile,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta. ASAP!,Tecnico,Alta
+TCK-0297,Sconto per rinnovo,Vorrei ricevere un preventivo dettagliato per 10 nuove utenze aziendali. Solo per avere un'idea.,Commerciale,Bassa
+TCK-0298,Richiesta preventivo,"Siamo in scadenza, è possibile avere uno sconto per il rinnovo annuale del contratto?",Commerciale,Bassa
+TCK-0299,Errore di sistema,L'applicazione va in crash improvvisamente appena clicco sul pulsante esporta.,Tecnico,Alta
+TCK-0300,Errore in nota di credito,Necessito del vostro IBAN per effettuare il saldo in scadenza.,Amministrazione,Media
