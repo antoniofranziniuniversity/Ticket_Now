@@ -1,4 +1,4 @@
-# 🎫 Sistema Intelligente Smistamento Ticket - MVP
+# 🎫 Triage automatico dei Ticket con Machine Learning - MVP
 
 Questo progetto è un Minimum Viable Product (MVP) sviluppato per automatizzare lo smistamento dei ticket aziendali. 
 A partire dal testo del ticket (Oggetto + Descrizione), il sistema utilizza algoritmi di Machine Learning (TF-IDF + Regressione Logistica) per prevedere automaticamente:
