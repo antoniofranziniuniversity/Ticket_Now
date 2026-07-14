@@ -7,7 +7,7 @@ import io
 
 # --- 1. CONFIGURAZIONE PAGINA ---
 st.set_page_config(page_title="Ticket Classifier MVP", page_icon="🎫", layout="centered")
-st.title("🎫 Sistema Intelligente Smistamento Ticket")
+st.title("🎫 Ticket Now")
 st.markdown("Prototipo MVP per la classificazione automatica di categoria e priorità.")
 
 
